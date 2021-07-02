@@ -12,8 +12,7 @@
 - You need to change guildOnly to your guild id or simply delete this line.
 
 ### Support
- - https://gcommands.js.org
- - https://discord.gg/AjKJSBbGm2
+ - https://discord.gg/YpzuSGNUyv
 
 ### Requirements
  - Node `12.x+`
